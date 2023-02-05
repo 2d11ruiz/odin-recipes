@@ -1,0 +1,24 @@
+* {
+    font-family: Arial;
+}
+
+.return {
+    color: red;
+}
+
+h1 {
+    background-color: red;
+    color: yellow;
+}
+
+.recipe {
+    background-color: yellow;
+    color: red;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33.33%;
+}
