@@ -1,0 +1,29 @@
+#lasagna-link,
+#applepie-link,
+#fries-link {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#index-title {
+    text-align: center;
+}
+
+.link-container {
+    border: 5px solid black;
+    width: 333px;
+    margin: 111px auto 0;
+}
+
+.link-area {
+    background-color: lightgray;
+    margin: 10px;
+    text-align: center;
+}
+
+.credit {
+    text-align: center;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 111px;
+}
